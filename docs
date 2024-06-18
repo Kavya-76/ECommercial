@@ -1,0 +1,3 @@
+npx create-react-app .                    -> to create react app
+npm install react-router-dom
+npm start                                -> to start react app
